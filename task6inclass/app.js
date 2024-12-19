@@ -16,3 +16,5 @@ for (let i = 1; i <= 10; i++) {
   }
 }
 console.log("Processing complete. Check output.txt for results.");
+
+//Arwad && Ayman
